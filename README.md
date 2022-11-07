@@ -3,7 +3,7 @@
 Pretty simple guessing game developed in C++
 - Input/Output facilities
 - Limited number of guesses
-- Tells user whether guess was too high or too low
+- Tells user whether guess was too high or too low using conditional statements
 - Input validation included
 - Modularized code
 - Code is extensible and easily modifiable
