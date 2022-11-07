@@ -40,7 +40,7 @@ void playGame() {
         if (guess == 0) {
             cout << "Goodbye!" << endl;
         } else if (guess == secret_number) {
-            cout << "You got it! You must be psychic!!" << endl;
+            cout << "You got it! You are amazing!!" << endl;
             break;
         } else if (guess < secret_number) {
             cout << "Nope, guess is too low!" << endl;
