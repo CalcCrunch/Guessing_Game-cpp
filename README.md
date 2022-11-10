@@ -1,4 +1,4 @@
-# Guessing_Game (cpp)
+# Guessing Game!
 
 Pretty simple guessing game developed in C++
 - Input/Output facilities
